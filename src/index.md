@@ -3,17 +3,17 @@
 layout: layouts/homepage
 
 # set the page title
-title: 11056 Project 2 Starter
+title: 11056 Project 2 Chaotic Site
 
 # We can set extra info here to use in our templates
 
 hero:
-    title: "I am the hero title!"
+    title: "A website for all your BASE ARE BELONG TO US!!!"
 ---
 
 
-# Hello!
+# Here is some amah-zing content
 
-## I am your index.md file
+## Keep Scrolling. I'm sure it's there somewhere
 
 Any content you add to this markdown file will be displayed on the homepage 

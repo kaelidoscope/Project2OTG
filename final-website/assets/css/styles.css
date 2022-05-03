@@ -1,6 +1,6 @@
 body {
     font-size: 16px;
-    background-color: #f4f4f4;
+    background-color: #000000;
     font-family: sans-serif;
 }
 
@@ -8,20 +8,24 @@ h1 {
     font-size: 2em;
     /* shorthand for TOP RIGHT BOTTOM LEFT */
     /* margin: 1em 0 1.5em 0; */
+    color: rgb(169, 169, 169);
 }
 
 h2 {
     font-size: 1.6em;
+    color: rgb(169, 169, 169);
 }
 
 h3 {
     font-size: 1.4em;
+    color: rgb(169, 169, 169);
 }
 
 p {
     font-size: 1.2em;
     line-height: 1.5em;
     margin-bottom: 1.5em;
+    color: rgb(129, 128, 128);
 }
 
 .inner-wrapper {
@@ -31,13 +35,14 @@ p {
 
 header,
 footer {
-    background-color: #777999;
+    background-color: #2a2f7b;
     padding: 2em 0;
+    
 }
 
 .hero {
     text-align: center;
-    background: #a5a5a5;
+    background: #ff0000;
     min-height: 5em;
     padding: 2em;
     margin: 1em 0;
