@@ -3,12 +3,11 @@
 layout: layouts/homepage
 
 # set the page title
-title: 11056 Project 2 Chaotic Site
-
+title: KAELidoscope
 # We can set extra info here to use in our templates
 
 hero:
-    title: "A website for all your BASE ARE BELONG TO US!!!"
+    title: "KAELidoscope Portfolio"
 ---
 
 
