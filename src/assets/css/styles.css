@@ -52,6 +52,7 @@ footer {
     
 }
 
+
 /** Move footer to bottom of View port & make it take up the width**/
 footer {
         position: absolute;

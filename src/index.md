@@ -10,9 +10,9 @@ hero:
     title: "KAELIDOSCOPE PORTFOLIO"
 ---
 
+![Kaelidoscope Image](assets/css/images/kaleidoscopeinvert.jpg)
 
 # Here is some amah-zing content
 
 ## Keep Scrolling. I'm sure it's there somewhere
 
-Any content you add to this markdown file will be displayed on the homepage 
