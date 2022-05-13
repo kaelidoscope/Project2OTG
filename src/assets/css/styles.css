@@ -28,6 +28,18 @@ p {
     color: rgb(129, 128, 128);
 }
 
+a {
+    text-decoration: none;
+    color:rgb(6, 27, 123)
+
+}
+
+a:hover {
+    color:cadetblue;
+    background-color: #484a6a;
+}
+
+
 .inner-wrapper {
     width: 70%;
     margin: 0 auto;
@@ -35,7 +47,7 @@ p {
 
 header,
 footer {
-    background-color: #353fcb;
+    background-color: #484a6a;
     padding: 2em 0;
     
 }

@@ -7,7 +7,7 @@ title: KAELIDOSCOPE
 # We can set extra info here to use in our templates
 
 hero:
-    title: "KAELidoscope Portfolio"
+    title: "KAELIDOSCOPE PORTFOLIO"
 ---
 
 
