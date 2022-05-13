@@ -45,7 +45,7 @@ I felt like I had a much smoother grasp of some of the flexbox layout concepts, 
 
 ### Previous Layout
 
-<p> For comparisons sake, I've linked to my previous Portfolio
+<p> For comparisons sake, I've linked to my previous Portfolio</p>
 <br>
 <p>https://www.kaelidoscopeview.com/</p>
 
