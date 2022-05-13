@@ -49,16 +49,24 @@ header,
 footer {
     background-color: #484a6a;
     padding: 2em 0;
-    
+        
 }
+
 
 
 /** Move footer to bottom of View port & make it take up the width**/
 footer {
-        position: absolute;
+        max-height: 5em ;
         bottom: 0;
         width: 100vw;
 }
+
+img {
+    max-height: inherit;
+    max-width: 100%;
+    object-fit: contain;
+}
+
 
 .hero {
     text-align: center;
