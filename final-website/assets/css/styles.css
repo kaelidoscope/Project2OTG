@@ -35,9 +35,16 @@ p {
 
 header,
 footer {
-    background-color: #2a2f7b;
+    background-color: #353fcb;
     padding: 2em 0;
     
+}
+
+/** Move footer to bottom of View port & make it take up the width**/
+footer {
+        position: absolute;
+        bottom: 0;
+        width: 100vw;
 }
 
 .hero {

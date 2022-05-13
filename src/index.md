@@ -3,7 +3,7 @@
 layout: layouts/homepage
 
 # set the page title
-title: KAELidoscope
+title: KAELIDOSCOPE
 # We can set extra info here to use in our templates
 
 hero:
