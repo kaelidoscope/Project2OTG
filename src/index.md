@@ -14,5 +14,5 @@ hero:
 
 # Here is some amah-zing content
 
-## Keep Scrolling. I'm sure it's there somewhere
+## Just a few projects here and there to show-off some skills
 

@@ -8,12 +8,12 @@ h1 {
     font-size: 2em;
     /* shorthand for TOP RIGHT BOTTOM LEFT */
     /* margin: 1em 0 1.5em 0; */
-    color: rgb(138, 177, 225);
+    color: rgb(12, 60, 118);
 }
 
 h2 {
     font-size: 1.6em;
-    color: rgb(184, 170, 240);
+    color: rgb(83, 85, 155);
 }
 
 h3 {
@@ -25,7 +25,7 @@ p {
     font-size: 1.2em;
     line-height: 1.5em;
     margin-bottom: 1.5em;
-    color: rgb(129, 128, 128);
+    color: rgb(78, 78, 78);
 }
 
 a {
@@ -47,30 +47,32 @@ a:hover {
 
 header,
 footer {
-    background-color: #484a6a;
+    background-color: #676fdb92;
     padding: 2em 0;
-        
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    
 }
 
 
+img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+}
 
 /** Move footer to bottom of View port & make it take up the width**/
 footer {
         max-height: 5em ;
         bottom: 0;
         width: 100vw;
+        text-align: center;
 }
-
-img {
-    max-height: inherit;
-    max-width: 100%;
-    object-fit: contain;
-}
-
 
 .hero {
     text-align: center;
-    background: #f9f7f7;
+    background: #dedede;
     min-height: 5em;
     padding: 2em;
     margin: 1em 0;
@@ -86,4 +88,6 @@ img {
 
 main {
     margin-bottom: 2em;
+    align-items: center;
+    text-align: center;
 }
